@@ -2,3 +2,14 @@
 
 */bin/*
 */obj/*
+*.dll
+*.props
+*.targets
+*.exe
+*.cache
+*.json
+*.editorconfig
+*.pdb
+*.txt
+*AssemblyInfo.cs
+*AssemblyAttributes.cs
